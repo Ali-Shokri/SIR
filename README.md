@@ -1,3 +1,5 @@
-# SIR
+# SIR\
+Ultracold atomic gases offer a wealth of opportunities for studying quantum phenomena at mesoscopic and macroscopic scales. Laser and evaporative cooling in conjunction with the application of magnetic and/or electric fields allow for precise control over the external atomic degree of freedom below temperatures of one micro-Kelvin. Eventually, this makes it a possible experimental observation of some fascinating phenomena, Bose-Einstein Condensation (BEC) of alkali-metal atoms being one of the most prominent examples. The resulting coherent matter waves exhibit a wealth of intriguing properties and phenomena ranging from nonlinear excitation such as solitons and vortices to an amazingly controllable and beautiful many-body dynamics. 
+
 In this thesis we study the quantum scattering of ultra-cold fermionic particle and separation induced resonance in quasi-one dimensional system. We deploy grid method
 to investigate the quantum scattering for two particle in two separated constriant with transverse harmonic potential well in low energy limit. We show that due to tuning the separation in such system for sepacial state of energy and distance we can see two induced resonace which is called dual separation induced resonance
